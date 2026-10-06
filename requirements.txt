@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+python-docx
+python-pptx
+pandas
+numpy
+pillow
+opencv-python
+python-dotenv
+openai
+SpeechRecognition
